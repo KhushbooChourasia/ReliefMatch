@@ -11,7 +11,7 @@ httptools==0.8.0
 idna==3.18
 joblib==1.6.0
 networkx==3.6.1
-numpy==2.5.3
+numpy==2.2.6
 pandas==3.0.5
 pydantic==2.10.3
 pydantic_core==2.27.1
